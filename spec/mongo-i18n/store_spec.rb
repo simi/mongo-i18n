@@ -1,4 +1,4 @@
-require 'helper'
+require 'spec_helper'
 
 describe MongoI18n::Store do
   before(:each) do

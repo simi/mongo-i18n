@@ -1,4 +1,4 @@
-require 'helper'
+require 'spec_helper'
 
 describe MongoI18n do
   it "autoloads Store" do
