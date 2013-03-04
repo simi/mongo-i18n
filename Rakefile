@@ -1,5 +1,3 @@
-require 'rubygems'
-require 'rake'
 require 'rspec/core/rake_task'
 require File.expand_path('../lib/mongo-i18n/version', __FILE__)
 
